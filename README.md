@@ -15,6 +15,8 @@ H4XOR-news is an application that fetches and displays the latest tech and start
 - **Realm**
 
 ## Application Screenshots:
+
 <br>
-<img src = "https://github.com/user-attachments/assets/6739fd2e-a1e2-4951-98cb-adafd07f33a2" width = 150 style="margin-right: 20px;">
-<img src = "https://github.com/user-attachments/assets/a7f8ac6f-65b7-4403-a3c5-cb64ba209087" width = 150 style="margin-right: 20px;">
+<img src = "https://github.com/user-attachments/assets/7493ed9d-79b1-4d58-8d11-bf924f9afd11" width = 150 style="margin-right: 20px;">
+<img src = "https://github.com/user-attachments/assets/69293c53-1afe-4711-8e0e-26bbda82cc63" width = 150 style="margin-right: 20px;">
+<img src = "https://github.com/user-attachments/assets/8b9d330b-5add-4c90-8fef-575a41a66a51" width = 150 style="margin-right: 20px;">
